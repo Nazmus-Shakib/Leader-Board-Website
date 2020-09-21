@@ -1,0 +1,46 @@
+body {
+  background-color: #f3f1ff;
+  height: 100vh;
+}
+.navbar img {
+  width: 40px;
+}
+.player img {
+  width: 56px;
+}
+main {
+  max-width: 870px;
+}
+.blog img {
+  width: 177px;
+  height: 117px;
+}
+.card-deck {
+  width: 870px;
+}
+.card {
+  width: 252.42px;
+  height: 290px;
+  border-style: none;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.card img {
+  width: 224px;
+  height: 130px;
+  padding: 10px 0px 0px 15px;
+}
+.card-body p {
+  color: goldenrod;
+}
+.checked {
+  color: orange;
+}
+.time {
+  width: 105px;
+  height: 29px;
+  background-color: #ffe4e8;
+  margin-left: 10px;
+  border-radius: 15px;
+  color: royalblue;
+}
